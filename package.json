@@ -5,10 +5,8 @@
   "main": "server.js",
   "scripts": {
     "start:dev": "",
-    "start": "",
-    "server": "",
-    "build": "",
-    "install": "",
+    "start": "node server.js",
+    "install": "npm i",
     "client": ""
   },
   "keywords": [],
