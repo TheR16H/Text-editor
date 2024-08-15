@@ -1,7 +1,7 @@
 {
   "name": "jate",
   "version": "1.0.0",
-  "description": "<!-- just put the repo here since its a render deployment __<u>[Text editior](https://github.com/TheR16H/)__.</u> the \r  >> [Render deployment](hihihihih) <<\r   -->\r ## Table of Contents",
+  "description": "Text editior",
   "main": "server/server.js",
   "scripts": {
     "start": "node server/server.js",
@@ -10,14 +10,12 @@
     "build": "cd client && npm run build",
     "render-build": "npm install && npm run build"
 },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
+ "keywords": [],
+"author": "",
+"license": "MIT",
+"devDependencies": {
     "express": "^4.17.1",
-    "if-env": "^1.0.4"
-  },
-  "devDependencies": {
+    "if-env": "^1.0.4",
     "concurrently": "^5.2.0",
     "nodemon": "^2.0.4"
   }

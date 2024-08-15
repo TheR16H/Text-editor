@@ -1,5 +1,5 @@
 # Text-editor
-
+<!-- //  "concurrently": "^8.2.0" -->
 ## Description 
 <!-- just put the repo here since its a render deployment __<u>[Text editior](https://github.com/TheR16H/)__.</u> the 
  >> [Render deployment](hihihihih) <<
