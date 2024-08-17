@@ -1,7 +1,7 @@
 {
-  "name": "JATE",
+  "name": "jate",
   "version": "1.0.0",
-  "description": "",
+  "description": "<!-- //  \"concurrently\": \"^8.2.0\" -->\r ## Description \r <!-- just put the repo here since its a render deployment __<u>[Text editior](https://github.com/TheR16H/)__.</u> the \r  >> [Render deployment](hihihihih) <<\r   -->\r ## Table of Contents",
   "main": "server.js",
   "scripts": {
     "start:dev": "concurrently \"cd server && npm run server\" \"cd client && npm run dev\"",
@@ -25,6 +25,7 @@
     "css-loader": "^7.1.1",
     "nodemon": "^2.0.4",
     "webpack": "^5.91.0",
+    "webpack-cli": "^5.1.4",
     "webpack-dev-server": "^5.0.4",
     "webpack-pwa-manifest": "^4.3.0"
   }
