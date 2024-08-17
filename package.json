@@ -2,14 +2,14 @@
   "name": "jate",
   "version": "1.0.0",
   "description": "<!-- just put the repo here since its a render deployment __<u>[Text editior](https://github.com/TheR16H/)__.</u> the \r  >> [Render deployment](hihihihih) <<\r   -->\r ## Table of Contents",
-  "main": "server.js",
+  "main": "server/server.js",
   "scripts": {
     "start": "node server.js",
     "dev": "nodemon server.js"  
     },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "express": "^4.17.1",
     "if-env": "^1.0.4"
