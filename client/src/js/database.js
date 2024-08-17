@@ -18,8 +18,7 @@ export const putDb = async (content) => { // Create the connection to the databa
 
 	const tx = jateDb.transaction('jate', 'readwrite');
 	const store = tx.objectStore('jate');
-	const request = store.put({id: 1, valu
-    e: content});
+	const request = store.put({id: 1, value: content});
 	const result = await request;
 	console.error('putDb not implemented');
 }
