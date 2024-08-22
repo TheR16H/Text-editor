@@ -1,12 +1,15 @@
 {
   "name": "jate",
   "version": "1.0.0",
-  "description": "<!-- just put the repo here since its a render deployment __<u>[Text editior](https://github.com/TheR16H/)__.</u> the \r  >> [Render deployment](hihihihih) <<\r   -->\r ## Table of Contents",
+  "description": "ender dep",
   "main": "server/server.js",
   "scripts": {
-    "start": "node server.js",
+    "start": "npm run build && cd server && npm run server",
     "dev": "nodemon server.js",
-    "build": "webpack"
+    "server": "cd server && node server",
+    "build": "cd client && npm run build",
+    "install": "cd server && npm i && cd ../client && npm i",
+    "build_xt": "webpack --mode production"
   },
   "keywords": [],
   "author": "",
