@@ -15,10 +15,9 @@
 - [License](#license)
 
 ## Visuals
- <!-- ![ScreenShot1](./Assets/.png) 
- ![ScreenShot2](./Assets/.png)
-
-- -> [DEMO VIDEO](https://drive.google.com) <- - Click me   -->
+ <!-- ![ScreenShot1](./Assets/visual1.png) 
+ ![Gif](./Assets/visual2.gif)
+-->
 
 ## Usage
 
