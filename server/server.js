@@ -12,4 +12,3 @@ require('./routes/htmlRoutes')(app);
 app.listen(PORT, () => console.log(`Now listening on port: ${PORT}`));
 
 
-  // "render-build": "npm install && npm run build"
