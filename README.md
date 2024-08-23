@@ -1,9 +1,8 @@
-# Text-editor
-<!-- //  "concurrently": "^8.2.0" -->
+# Text editor
+
 ## Description 
-<!-- just put the repo here since its a render deployment __<u>[Text editior](https://github.com/TheR16H/)__.</u> the 
- >> [Render deployment](hihihihih) <<
-  -->
+This application is a <u>[Text Editor](https://text-editor-upo3.onrender.com)</u>  where the user can create notes or code snippets with or without an internet connection and where the user can reliably retrieve them for later use. 
+
 ## Table of Contents
 
 - [Visuals](#visuals)
@@ -15,22 +14,15 @@
 - [License](#license)
 
 ## Visuals
- <!-- ![ScreenShot1](./Assets/visual1.png) 
+ ![ScreenShot1](./Assets/visual1.png) 
  ![Gif](./Assets/visual2.gif)
--->
+
 
 ## Usage
 
 
 ## Installation
-<!-- just simply run the following commands in your terminal the first to install the necessary npm packages.
-```
-npm i
-``` 
-This second optional command if needed
-```
-command 2 if needed
-``` -->
+Once you go to the <u>[Deployed Site](https://text-editor-upo3.onrender.com)</u> you will be presented with an install button giving you the ability to install the application and use it offline! 
 
 ## Support
 For any support (or to see some of my other works) find me on [Github!](https://github.com/TheR16H)
@@ -39,13 +31,10 @@ For any support (or to see some of my other works) find me on [Github!](https://
 N/A
 
 ## References
-<!-- - [REF](https://www.google.com) 
-- [REF](https://www.google.com) 
-- [REF](https://www.google.com)  -->
 
 ## License 🔔
 
-<!-- MIT License
+MIT License
 
 Copyright (c) 2024 Rashawn Hall
 
@@ -65,5 +54,4 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE. -->
-
+SOFTWARE. 
